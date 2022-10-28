@@ -1,10 +1,12 @@
-### Prazer! Eu sou Vinicius de Abreu 🔆
+### Oiee! Eu sou Vinicius de Abreu 🔆
  
 ##
 
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabpr&layout=compact&langs_count=7&theme=dark"/>
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabpr&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" widthe=100 src="https://github-readme-stats.vercel.app/api?username=viniciusabpr&theme=dark"/>
+ </div>
             
 ##
 
@@ -17,4 +19,6 @@
 
 ### 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusabpr)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/85382714/198354316-f803bf23-7c86-49aa-955a-7c6910ac49d8.gif"/>
+</div>
