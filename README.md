@@ -2,9 +2,8 @@
  
 ##
 
-
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabpr&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabpr&layout=default&langs_count=7&theme=dark"/>
  <img height="180em" widthe=100 src="https://github-readme-stats.vercel.app/api?username=viniciusabpr&theme=dark"/>
  </div>
             
