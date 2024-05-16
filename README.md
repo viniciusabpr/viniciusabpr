@@ -26,7 +26,3 @@
 
 
 
-
-<div align="right">
-<img src="https://user-images.githubusercontent.com/85382714/198354316-f803bf23-7c86-49aa-955a-7c6910ac49d8.gif"/>
-</div>
