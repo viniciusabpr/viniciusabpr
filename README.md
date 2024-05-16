@@ -1,6 +1,11 @@
 ### Oiee! Eu sou Vinicius de Abreu 🔆
  
 ##
+<p>Estudante de programação na UFPR no curso de Analise e Desenvolvimento de sistema
+
+Muito entusiasmado com a área de tecnologia 
+
+em busca do meu primeiro trabalho na Area</p>
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabpr&layout=default&langs_count=7&theme=dark"/>
