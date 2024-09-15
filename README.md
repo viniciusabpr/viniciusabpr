@@ -1,5 +1,4 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFNH1krnAWTHw/profile-displaybackgroundimage-shrink_350_1400/0/1670647553146?e=1721260800&v=beta&t=DpX0XuxK1E9nunbzFLr3smAQ3xDYncojoa1zcYTZoSU">
 
 # Oiee! Eu sou Vinicius de Abreu 🔆
  
