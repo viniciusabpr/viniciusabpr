@@ -1,6 +1,6 @@
 
 
-# Oiee! Eu sou Vinicius de Abreu 🔆
+# Vinicius de Abreu 🔆
  
 
 <p>Estudante De Analise e Desenvolvimento de Sistemas  🖥️
